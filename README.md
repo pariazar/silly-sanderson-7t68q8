@@ -1,2 +1,0 @@
-# Tradingview
-Created with CodeSandbox
