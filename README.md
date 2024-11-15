@@ -1,2 +1,2 @@
-# silly-sanderson-7t68q8
+# Tradingview
 Created with CodeSandbox
